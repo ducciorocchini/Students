@@ -4,5 +4,5 @@
 
 List:
 
-+ [Changing coordinates and linear models ggplot2 - Lola Neuert](https://github.com/ducciorocchini/Students/blob/main/changing_coordinates_linear_models_ggplot2_Lola_Neuert.R)
-+ [if on packages - Chiara Raineri](https://github.com/ducciorocchini/Students/blob/main/if_packages.R)
++ [Changing coordinates and linear models ggplot2](https://github.com/ducciorocchini/Students/blob/main/changing_coordinates_linear_models_ggplot2_Lola_Neuert.R) - [Lola Neuert](https://github.com/lolaneuert)
++ [if on packages](https://github.com/ducciorocchini/Students/blob/main/if_packages.R) - [Chiara Raineri](https://github.com/ChiaraRaineri)
