@@ -1,4 +1,4 @@
-### Lola Neuert
+### Lola Neuert - 2023
 ### Exam Project - Monitoring Ecosystem Change and Function
 ### with Prof. Rocchini in the winter term 2022/23
 
