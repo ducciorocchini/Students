@@ -1,4 +1,5 @@
 # Filippo  Paganelli 
+# ALFIO TOMARCHIO 
 
 # class 1 = vegetazione
 # class 2 = suolo nudo
