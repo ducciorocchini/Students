@@ -1,4 +1,4 @@
-Filippo  Paganelli 
+# Filippo  Paganelli 
 
 # class 1 = vegetazione
 # class 2 = suolo nudo
