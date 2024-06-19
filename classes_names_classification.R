@@ -9,3 +9,4 @@ nomi_classi <- c("Vegetazione", "Suolo nudo") # uguali per entrambi in questo ca
 VB <- colorRampPalette(c("forestgreen", "floralwhite"))(2) # creo la mia scala di colori con solo 2 sfumature
 par(mfrow=c(2,1)) # 2 righe e 1 colonna
 plot(m23c, main = "Classificazione marzo 23", type = "classes", levels = nomi_classi, col = VB)
+plot(s23c, main = "Classificazione settembre 23", type = "classes", levels = nomi_classi, col = VB)
