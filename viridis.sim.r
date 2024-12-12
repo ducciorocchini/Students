@@ -1,3 +1,6 @@
+# simple:
+plot(sd3, col=magma(100))
+
 # giulian capasso
 viridis <- colorRampPalette(viridis(7))(255)
 
