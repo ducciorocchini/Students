@@ -1,0 +1,7 @@
+#  Casarini Susanna 
+  
+### 6 - DENSITY ###
+names(june_2022_NASA) <- c("B2 - Blue band","B3 - Green band","B4 - Red band") 
+density(june_2022_NASA)
+names(sept_2022_NASA) <- c("B2 - Blue band","B3 - Green band","B4 - Red band") 
+density(sept_2022_NASA)
