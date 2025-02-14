@@ -5,3 +5,14 @@ names(june_2022_NASA) <- c("B2 - Blue band","B3 - Green band","B4 - Red band")
 density(june_2022_NASA)
 names(sept_2022_NASA) <- c("B2 - Blue band","B3 - Green band","B4 - Red band") 
 density(sept_2022_NASA)
+
+# SSIMONE ANTORO 
+
+# Density plot for NDVI
+dev.off()
+plot(density(ndvi_pre_vals), main = "Density Plot of NDVI", 
+     xlab = "NDVI", col = "blue", lwd = 2)
+lines(density(ndvi_post_vals), col = "red", lwd = 2)
+legend("topleft", legend = c("Pre-Fire", "Post-Fire"), 
+       col = c("blue", "red"), lwd = 2)
+
