@@ -2,7 +2,7 @@
 
 First of all, we should import an image by:
 
-``` r
+```r
 im.list() # make a list
 gr = im.import("greenland") # to import the image
 ```
