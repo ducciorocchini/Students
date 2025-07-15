@@ -34,5 +34,20 @@ Ecco di seguito il codice in JavaScript utilizzato su [Google Earth Engine](http
 
 > Code by FRANCESCA NOVELLI
 
+# Important
+
+>[!IMPORTANT]
+>Prima di fare lo stack devo rendere i 4 layer uguali, perchè i primi 3 li ho scaricati insieme, 
+>mentre la banda SWIR un altro giorno e avevo perso il poligono precedente su GEE. Perciò hanno estensioni leggermente differenti e non combaciano,
+>una volta trovata l'estensione comune procedo con il crop per renderli uguali. 
+
+> Code by Matteo Sorde
+
+# Tip
+
+>[!TIP]
+>**Per il falso colore metto la banda SWIR sul rosso**
+
+> Code by Matteo Sorde
 
   
